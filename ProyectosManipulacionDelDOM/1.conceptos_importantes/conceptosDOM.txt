@@ -1,0 +1,5 @@
+1. La etiqueta HTML en el documento index es conocido como 'Root Node'
+2. Las etiquetas 'Parent Node' son etiquetas que envuelven a otras como head y body.
+3. 'Slibing Node' nodos que estan ubicados en el mismo nivel de la jerarquia como: head y body
+4. Las etiquetas envueltas en nodos padres son las 'Child Node', el nodo hijo es solo lo que este un nivel por debajo del nodo padre y no mas.
+5. Los 'Descendant Node' son nodos contenidos dentro de otro en la jerarquia del DOM (directa o indirectamente).

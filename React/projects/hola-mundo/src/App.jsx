@@ -2,7 +2,7 @@ import './App.css'
 import { TwitterFollowCard } from './TwitterFollowCard'
 
 export function App () {
- /*  const format = (userName) => `@${userName}` */
+  /*  const format = (userName) => `@${userName}` */
 
   return (
     <section className='App'>
@@ -11,7 +11,7 @@ export function App () {
       </TwitterFollowCard>
 
       <TwitterFollowCard userName='Shawn'>
-        Tiburon Rojo 
+        Tiburon Rojo
       </TwitterFollowCard>
     </section>
   )
